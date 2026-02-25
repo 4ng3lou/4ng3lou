@@ -41,7 +41,7 @@ $ ssh YOUR_USERNAME@matrix.io
 
 ```python
 class Developer:
-    name        = "YOUR_USERNAME"
+    name        = "4ng3lou"
     role        = "Full-Stack Developer"
     location    = "Inside the Matrix 🌐"
     status      = "Bending reality with code"
